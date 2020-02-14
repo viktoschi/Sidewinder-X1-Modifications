@@ -1,5 +1,3 @@
-Only disply firmware.
-
 see https://www.thingiverse.com/thing:3856144 and https://www.thingiverse.com/thing:4043317 for Marlin FW and instructions for PID and MBL
 
 
