@@ -9,3 +9,4 @@
 * Added Mesh Bed Leveling
 * Added Linear Adavance Feature
 * PID Autotune
+* Added BigTreeTech Menu Firmware for MKS TFT 28
